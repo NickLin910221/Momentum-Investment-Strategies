@@ -1,0 +1,10 @@
+{
+	"host"	     : "YOUR_HOST_IP",
+	"port"       : "YOUR_HOST_PORT",
+	"user"       : "YOUR_USERNAME",
+	"password"   : "YOUR_PASSWORD",
+	"url"        : "https://api.binance.com",
+	"api_key"    : "YOUR_API_KEY",
+	"api_secret" : "YOUR_API_SECRET",
+	"Line_token" : "YOUR_LINE_NOTIFY_TOKEN"
+}
