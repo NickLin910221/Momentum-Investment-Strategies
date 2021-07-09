@@ -17,7 +17,7 @@ with open(file_name, "r") as f:
     host = data["host"]
     port = data["port"]
     user = data["user"]
-    password = data["passworㄎ"]
+    password = data["password"]
     Line_Notify_Token = data["Line_token"]
 
 ### Write Database
